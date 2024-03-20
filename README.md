@@ -42,7 +42,9 @@ I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everythi
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/xcode-000000.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/xcode-000000.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TKinter](https://img.shields.io/badge/tkinter-000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
