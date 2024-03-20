@@ -19,7 +19,7 @@ I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everythi
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Swift](https://img.shields.io/badge/-Switf-000000?style=for-the-badge&logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
