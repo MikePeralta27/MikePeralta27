@@ -7,7 +7,7 @@
 
 
 #### About me:
-I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everything related with quality assurance, software testing and development, I'm a Certified Tester by ISTQB. I love to learning new things and having new challenges.
+I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everything related with quality assurance, software testing and development, I'm a ISTQB Certified Tester. I love to learning new things and having new challenges.
 
 
 #### Things that I'm currently working on: 
@@ -28,6 +28,7 @@ I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everythi
 ## Automation tools and frameworks
 
 ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=cypress)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=playwright)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
@@ -36,7 +37,7 @@ I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everythi
 
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm)
 ![WebStorm](https://img.shields.io/badge/-WebStrom-000000?style=for-the-badge&logo=webstorm)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea)
