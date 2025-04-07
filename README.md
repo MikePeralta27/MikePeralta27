@@ -7,7 +7,7 @@
 
 
 #### About me:
-I'm a QA Engineer from Dom. Rep. based on NJ, USA. I'm passionate about everything related with quality assurance, software testing and development, I'm a ISTQB Certified Tester. I love to learning new things and having new challenges.
+I'm a QA Engineer from Dom. Rep. I'm passionate about everything related with quality assurance, software testing and development, I'm a ISTQB Certified Tester. I love to learning new things and having new challenges.
 
 
 #### Things that I'm currently working on: 
